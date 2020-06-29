@@ -10,6 +10,12 @@ Linus Benedict Torvalds (* 28. Dezember 1969 in Helsinki) ist ein finnisch-US-am
 * punkt 4
 * punkt 5
 
+<br>
+
 >I'm an egoistical bastard, and I name all my projects after myself. First 'Linux', now 'Git'.
 >
 >Linus Torvalds
+
+<br>
+<br>
+<img src="https://images.derstandard.at/img/2018/10/23/torvalds.jpg?w=1600&s=7026860e" alt="Bild von Linus" />
